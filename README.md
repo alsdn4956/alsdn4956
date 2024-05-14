@@ -13,6 +13,14 @@
 </a>
 
 
+<img src="https://img.shields.io/badge/C++-ED1C24?style=flat-square&logo=simpleicons_dungeonsanddragons&logoColor=white"/>
+
+
+
+
+
+
+
 <!--
 **alsdn4956/alsdn4956** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
