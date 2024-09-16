@@ -24,7 +24,7 @@
     </div>
     <div align= "center"> 
     <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h1> <div align= "center">   </div> 
-        ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alsdn4956&show_icons=true&theme=tokyonight)
+        ![Anurag's github stats]<https://github-readme-stats.vercel.app/api?username=alsdn4956&show_icons=true&theme=tokyonight>
 
     </div>
     
