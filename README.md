@@ -31,7 +31,6 @@
 
 <div align= "center">
     <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h1> 
-    <br> 
     <div align="center" style="display: flex; justify-content: center;">
     <a href="mailto:alsdn4956@kookmin.ac.kr" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
