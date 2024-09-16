@@ -35,5 +35,6 @@
     <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h1>
     <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=alsdn4956&show_icons=true&theme=tokyonight" alt="Minu's github stats" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsdn4956&layout=compact&theme=tokyonight"/>
     </div>
 </div>
