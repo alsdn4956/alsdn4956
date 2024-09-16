@@ -36,11 +36,6 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   </a>
-  <a href="alsdn4956@kookmin.ac.kr">
-    <img
-      src="https://img.shields.io/badge/alsdn4956@kookmin.ac.kr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp
- 
-  </a>
   <a href="https://www.instagram.com/xxminuxx_/">
     <img
       src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
