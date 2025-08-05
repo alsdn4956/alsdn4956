@@ -2,6 +2,27 @@
     <img src="https://capsule-render.vercel.app/api?type=wave&color=0:fad0c4,100:0ffd1f&height=120&text=I'm%20Minu,%20@xxminuxx_&animation=fadeIn&fontColor=0ccfe9&fontSize=60" />
 </div>
 
+<br/><br/>
+
+<div align="center">
+
+## 🧩 Activities
+
+| 소속 및 단체 | 활동 기간 | 내용 |
+|--------------|------------|------|
+| 국민대학교 | 2021.03 ~ | 국민대학교 소프트웨어학부 재학 |
+| IF | 2021.03 ~ 2021.12 | 국민대학교 소프트웨어융합대학 제5대 학생회 사무부 부원 |
+| 정보보호병 | 2022.04 ~ 2023.10 | OOOOO사령부 정보보호병 |
+| CONNECT | 2023.12 ~ 2024.11 | 국민대학교 소프트웨어융합대학 제8대 학생회 총무부 부장 |
+| WINK | 2024.09 ~ ING | 국민대학교 웹 소프트웨어 학회 WINK 부원 |
+| ARCHIVE | 2024.12 ~ ING | 국민대학교 소프트웨어융합대학 제9대 학생회장 |
+</div>
+
+
+<br/><br/>
+
+
+
 <div align= "center">
     <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Tech Stack ✨ </h1> 
     <br> 
