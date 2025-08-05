@@ -18,6 +18,13 @@
 | ARCHIVE | 2024.12 ~ ING | 국민대학교 소프트웨어융합대학 제9대 학생회장 |
 </div>
 
+<br/><br/>
+
+<div align= "center">
+## 🏆 Awards
+
+🥈 **2024 WINK x The Compass** 국민대 X The Compass 유저 페르소나 웹 해커톤 2등 우수상
+</div>
 
 <br/><br/>
 
